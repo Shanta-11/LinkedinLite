@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LinkedIn Lite</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="profile">Profile</string>
+    <string name="content_1">This is a snippet of a countdown video, Which I made for Techniche IITG</string>
+    <string name="username">Shantanu Chaudhari</string>
+    <string name="content_2">This is also a still render of countdown video for Techniche.</string>
+    <string name="content_3">A render from a video I made on Earth Hour.</string>
+    <string name="content_4">A cute robot I modelled for a Problem Statement.</string>
+    <string name="content_5">Another day, another countdown</string>
+</resources>
